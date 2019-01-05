@@ -1,38 +1,19 @@
 ---
 layout: post
-title: Introducing Lanyon
+title: 소개
 ---
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+문과와 이과가 그리 먼 사이가 아니었음을 알리고 싶습니다. 그래도 문맥자유이론을 발표하신다면 좀 쉽게 풀어서 설명해 주시면 좋을 듯 합니다. 코드실습은 R, python으로 준비해 주시면 좋겠습니다. 참여하실 모든 분들 잘 부탁드립니다. 2명이 오거나 200명이 오거나 소외되는 사람 없이 모두가 참여하는 모임이 되는 것이 모토입니다.
 
-### Built on Poole
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Lanyon here) includes the following:
 
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
+  >-    형태소 분석, 구문 분석 등과 챗봇 응용 사례 등을 통해 최근 자연어처리 동향 이해
+  >-    대학(원)생들의 다양한 아이디어 공유 및 커뮤니티 모임
+  >-    텍스트 데이터에 쉽게 접근할 수 있도록 하는 튜토리얼
+  >-    텍스트 시각화 등으로 시각적이고 직관적으로 데이터에 접근할 수 있는 기회 마련
 
-### Lanyon features
 
-In addition to the features of Poole, Lanyon adds the following:
-
-* Toggleable sliding sidebar (built with only CSS) via **☰** link in top corner
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/lanyon#themes), available via `<body>` classes
-
-[Head to the readme](https://github.com/poole/lanyon#readme) to learn more.
-
-### Browser support
-
-Lanyon is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
-
-### Download
-
-Lanyon is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/lanyon">GitHub repository</a> for downloads, bug reports, and features requests.
-
-Thanks!
+  # 지난 대회 보기
+[멜팅팡_연합세미나](https://www.onoffmix.com/event/110570)       
+[사람이 챗봇을 만듭니다!](https://www.onoffmix.com/event/124842)   
+[봇봇봇](https://www.onoffmix.com/event/89407)   
