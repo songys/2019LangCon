@@ -11,6 +11,12 @@ url:                 https://songys.github.io
 baseurl:             '/2019LangCon/'
 paginate:            5
 
+
+manu:
+  Home:/
+  About: /About/
+
+
 # About/contact
 author:
   name:              Mark Otto
