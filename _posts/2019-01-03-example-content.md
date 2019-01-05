@@ -4,9 +4,8 @@ title: 프로그램
 ---
 
 
-### Time Tables
+### 키노트
 
-시간표
 
 <table>
   <thead>
@@ -35,4 +34,24 @@ title: 프로그램
     </tr>
   </tbody>
 </table>
+
+
+### 발표 및 튜토리얼
+
+<img src='http://drive.google.com/uc?export=view&id=1bH75imRyXjqWWzIeS1OVa11j6z7ZjMZB' /><br>
+
+### 포스터 발표           
+
+박형민 · 이상규: 파이썬으로 한림학보 분석한 한림 대학교의 키워드             
+정밍 : 파이썬으로 빌보드 분석하기(초급)                
+구윤제 : Python을 이용한 빌보드 차트 분석                   
+          
+
+
+
+
+
+
+
+
 
