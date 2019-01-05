@@ -17,12 +17,6 @@ title: 프로그램
     </tr>
   </thead>
   <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
   <tbody>
     <tr>
       <td>10:00</td>
