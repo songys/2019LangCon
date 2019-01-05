@@ -9,7 +9,7 @@ tagline:             'NLP Conference'
 description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 https://songys.github.io
 baseurl:             '/2019LangCon/'
-pageurl:             '/https://songys.github.io/about/'
+pageurl:             '/about/'
 paginate:            5
 
 # About/contact
