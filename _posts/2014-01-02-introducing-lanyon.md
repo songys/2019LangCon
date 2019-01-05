@@ -13,7 +13,7 @@ title: 소개
   >-    텍스트 시각화 등으로 시각적이고 직관적으로 데이터에 접근할 수 있는 기회 마련
 
 
-  # 지난 대회 보기
+  # 지난 대회 보기          
 [멜팅팡_연합세미나](https://www.onoffmix.com/event/110570)       
 [사람이 챗봇을 만듭니다!](https://www.onoffmix.com/event/124842)   
 [봇봇봇](https://www.onoffmix.com/event/89407)   
