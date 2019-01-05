@@ -19,22 +19,6 @@ title: Home
   {% endfor %}
 </div>
 
-<div class="page">
-  {% for post in paginator.posts %}
-  <div class="">
-    <h1 class="About">
-      <a href="{{ https://songys.github.io/about/ }}{{ https://songys.github.io/about/}}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
-
 <div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">Older</a>

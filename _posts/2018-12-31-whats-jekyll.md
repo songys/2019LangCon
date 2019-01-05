@@ -10,4 +10,4 @@ title: 후원
 [마이크로소프트](https://www.microsoft.com/ko-kr)           
 <img src='http://drive.google.com/uc?export=view&id=1EKr_MRA-iv3AiI635dhLYlV3Ha3ctZBF' width="500" /><br>
 
-![MS]({{ "/assets/mslearn.jpeg"|https://songys.github.io/}})
+<img src='/assets/mslearn.jpeg' width="400"/><br>
