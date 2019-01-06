@@ -13,7 +13,7 @@ title: 프로그램
 ### 발표 및 튜토리얼 세션                                
 ![table2](./assets/main.png)     
 
-### 포트터 세션                    
+### 포스터 세션                    
 ![table3](./assets/p.png)          
 
 
