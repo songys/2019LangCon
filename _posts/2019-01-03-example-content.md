@@ -8,9 +8,9 @@ title: 프로그램
 
 ### 발표 및 튜토리얼
 
-![table1](./assets/keynote.png)                         
-![table2](./assets/time.png)           
-![table3](./assets/post.png)          
+![table1](./assets/k.png)                         
+![table2](./assets/main.png)           
+![table3](./assets/p.png)          
 
 
 
