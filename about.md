@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 발표자료
+title: 발표소개
 permalink: /about/
 ---
 
