@@ -16,7 +16,7 @@
 title: 2019LangCon
 email: klanguage1004@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  블로그 시작 테스트
+  대회 신청 링크 : 2019년 2월 1일 오픈
 baseurl: '/2019LangCon/' # the subpath of your site, e.g. /blog
 url: "https://www.facebook.com/youngsook.song.1" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
