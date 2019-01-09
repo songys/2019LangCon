@@ -20,7 +20,7 @@ permalink: /about/
 
 |:--------:|:-----------------:|:-----------:|:--------:|:--------:|
 |송영숙![1](./pic/song.jpg)|이상열![2](./pic/sang.jpg)|홍수린![3](./pic/sulin.jpg)|송치성![4](./pic/chisung.jpg)|이재석![5](./pic/jesuk.jpg)|
-|한수미|심상진|고하경![1](./pic/kohakyong.jpg)|||
+|한수미![1](./pic/sumi.jpg)|심상진|고하경![3](./pic/kohakyong.jpg)|||
 ||||||
 
 
