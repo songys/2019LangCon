@@ -22,7 +22,8 @@ layout: home
 # 지난 대회 보기          
 [멜팅팡_연합세미나](https://www.onoffmix.com/event/110570)                   
 [사람이 챗봇을 만듭니다!](https://www.onoffmix.com/event/124842)            
-[동영상](https://www.youtube.com/playlist?list=PLqkITFr6P-oRQu0OJCIqHuff-ubbCkWlL) 
+ >[동영상](https://www.youtube.com/playlist?list=PLqkITFr6P-oRQu0OJCIqHuff-ubbCkWlL)                   
+
 [봇봇봇](https://www.onoffmix.com/event/89407)                 
 
 
