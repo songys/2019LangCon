@@ -1,10 +1,8 @@
 ---
 layout: post
-title:  "대화 설계"
+title:  "발표자료"
 date:   2019-01-05 13:22:41 +0900
 categories: jekyll update
 ---
 
-챗봇에서 대화를 설계하는 방법
-
- ![대화](http://drive.google.com/uc?export=view&id=14vLhz4OvOOGUsIAV5rqvo3NOBuQ9EDWC)
+대회 4일 이후에 업데이트 예정
