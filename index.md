@@ -51,5 +51,5 @@ layout: home
 [한림대학교 디지털인문예술전공](https://sites.google.com/view/dah-hallym)            
 ![한림대학교](./pic/hallym.png)         
 
-[마이크로소프트](https://www.microsoft.com/ko-kr)          
+[Microsoft Learn](https://docs.microsoft.com/ko-kr/learn)         
 ![마이크로소프트](./pic/mslearn.jpeg)              
