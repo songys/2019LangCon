@@ -18,13 +18,7 @@ layout: home
   >-    텍스트 데이터에 쉽게 접근할 수 있도록 하는 튜토리얼        
   >-    텍스트 시각화 등으로 시각적이고 직관적으로 데이터에 접근할 수 있는 기회 마련         
 
-
-# 지난 대회 보기          
-[멜팅팡_연합세미나](https://www.onoffmix.com/event/110570)                   
-[사람이 챗봇을 만듭니다!](https://www.onoffmix.com/event/124842)            
- >[발표 동영상](https://www.youtube.com/playlist?list=PLqkITFr6P-oRQu0OJCIqHuff-ubbCkWlL)                   
-
-[봇봇봇](https://www.onoffmix.com/event/89407)                 
+#  2019/2/16(토)                
 
 
 ### 키노트 세션                
@@ -41,9 +35,16 @@ layout: home
           
 
 
-# 찾아오시는 길           
+# 찾아 오시는 길           
 서울특별시 종로구 중학동 19 더케이트윈타워 A동 11층                            
 ![지도](./pic/msmap.png)
+
+# 지난 대회 보기          
+[멜팅팡_연합세미나](https://www.onoffmix.com/event/110570)                   
+[사람이 챗봇을 만듭니다!](https://www.onoffmix.com/event/124842)            
+ >[발표 동영상](https://www.youtube.com/playlist?list=PLqkITFr6P-oRQu0OJCIqHuff-ubbCkWlL)                   
+
+[봇봇봇](https://www.onoffmix.com/event/89407) 
 
 
 # 후원               
