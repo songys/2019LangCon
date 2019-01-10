@@ -7,7 +7,7 @@ layout: home
 
                   
 
-<img src="./pic/logo.png" width="200" width="300" height="120" ><BR>
+<img src="./pic/langconlogo.png" width="200" width="300" height="120" ><BR>
 
 문과와 이과가 그리 먼 사이가 아니었음을 알리고 싶습니다. 그래도 문맥자유이론을 발표하신다면 좀 쉽게 풀어서 설명해 주시면 좋을 듯 합니다. 코드실습은 R, python으로 준비해 주시면 좋겠습니다. 참여하실 모든 분들 잘 부탁드립니다. 2명이 오거나 200명이 오거나 소외되는 사람 없이 모두가 참여하는 모임이 되는 것이 모토입니다.
 
@@ -22,7 +22,7 @@ layout: home
 # 지난 대회 보기          
 [멜팅팡_연합세미나](https://www.onoffmix.com/event/110570)                   
 [사람이 챗봇을 만듭니다!](https://www.onoffmix.com/event/124842)            
- >[동영상](https://www.youtube.com/playlist?list=PLqkITFr6P-oRQu0OJCIqHuff-ubbCkWlL)                   
+ >[발표 동영상](https://www.youtube.com/playlist?list=PLqkITFr6P-oRQu0OJCIqHuff-ubbCkWlL)                   
 
 [봇봇봇](https://www.onoffmix.com/event/89407)                 
 
@@ -32,7 +32,7 @@ layout: home
 ![table1](./pic/p.png)          
 
 ### 발표 및 튜토리얼 세션                                
-![table2](./pic/m.png)        
+![table2](./pic/main.png)        
 
 ### 포스터 세션                    
 박형민 · 이상규: 파이썬으로 한림학보 분석한 한림 대학교의 키워드            
