@@ -23,7 +23,7 @@ layout: home
 
 ### 키노트 세션                
 
-![table1](./pic/p.png)          
+![table1](./pic/key.png)          
 
 ### 발표 및 튜토리얼 세션                                
 ![table2](./pic/main.png)        
