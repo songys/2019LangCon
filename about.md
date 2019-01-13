@@ -25,7 +25,7 @@ permalink: /about/
 |:--------:|:-----------------:|:-----------:|:--------:|:--------:|
 |송영숙![1](./pic/song.jpg)|이상열![2](./pic/sang.jpg)|홍수린![3](./pic/sulin.jpg)|송치성![4](./pic/chisung.jpg)|한수미![5](./pic/sumi.jpg)|
 |김성근![1](./pic/sungkun.png)|심지수![2](./pic/jisu.jpg)|고하경![3](./pic/kohakyong.jpg)|김지인![4](./pic/kim.jpg)|안유미![5](./pic/anumi.jpg)|
-|정민![1](./pic/jungmin.jpg)|||||
+|정민![1](./pic/jungmin.jpg)|현예은![2](./pic/yeun.jpg))|김건희![3](./pic/khee.jpg)|||
 
 
 
