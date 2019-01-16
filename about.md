@@ -29,7 +29,7 @@ permalink: /about/
 |:--------:|:-----------------:|:-----------:|:--------:|:--------:|
 |송영숙![1](./pic/song.jpg)|이상열![2](./pic/sang.jpg)|홍수린![3](./pic/sulin.jpg)|송치성![4](./pic/chisung.jpg)|한수미![5](./pic/sumi.jpg)|
 |이재석![1](./pic/jslee.jpg)|김성근![2](./pic/sungkun.png)|심지수![3](./pic/jisu.jpg)|고하경![4](./pic/kohakyong.jpg)|안유미![5](./pic/anumi.jpg)|
-|정민![1](./pic/jungmin.jpg)|현예은![2](./pic/yeun.jpg)|김건희![3](./pic/khee.jpg)|김지인![4](./pic/kim.jpg)|김도경![5](./pic/kimdokyong.jpg)|
+|정민![1](./pic/jungmin.jpg)|현예은![2](./pic/yeun.jpg)|김지인![3](./pic/kim.jpg)|김건희![4](./pic/khee.jpg)|김도경![5](./pic/kimdokyong.jpg)|
 |박신홍![1](./pic/sinhongpark.jpg)|김강민![2](./pic/kangmin.jpg)|이상규![3](./pic/sangkue.jpg)||
 
 
