@@ -23,7 +23,7 @@ permalink: /about/
 |스피커|서범석|직방![서범석](./pic/sbs.png)|뉴스 및 커뮤니티 데이터를 이용한 주식시장 예측모델|뉴스 , 레딧 등 텍스트 데이터를 수치화와 주식시장 반영 **대상** : 초급|
 |스피커|김준민|카페24![김준민](./pic/junmin.png)|딥러닝으로 리뷰 별점 예측하기|**1)** LSTM vs CNN **2)** word embedding vs char embedding **3)** AWS Lambda에서 돌리기 **4)** Classification vs regression|
 |스피커|정건용, 신민철|아주대학교|메세지(기사)와 메신저(기사 전달자)를 활용한 가짜뉴스 판별기 제작기|가짜뉴스 판별기 제작과 관련한 삽질기 **대상** : 초중급|
-|스피커|홍지민|홍지민(아주대학교), 곽현석(충북대학교)![홍지민](./pic/jimin.jpg)|인터넷 방송 크롤링을 통한 방송 하이라이트 예측|인터넷 방송 채팅창 내 유저들의 반응: 탄성과 감탄사를 통해 방송의 가장 재미있거나, 하이라이트였던 부분을 예측합니다! **대상** : 초중급|
+|스피커|홍지민|홍지민(아주대학교), 곽현석(충북대학교)![홍지민](./pic/hongjimin.jpg)|인터넷 방송 크롤링을 통한 방송 하이라이트 예측|인터넷 방송 채팅창 내 유저들의 반응: 탄성과 감탄사를 통해 방송의 가장 재미있거나, 하이라이트였던 부분을 예측합니다! **대상** : 초중급|
 |포스터|구윤제, 정민|한림대학교![구윤제](./pic/kyj.png)|![정민](./pic/jungmin.jpg)빌보드 차트 뽀개기 : 연도별 GGL 분석|빌보드 차트를 장르, 성별, 가사에 초점을 맞춰서 파이썬을 통한 자연어처리로 분석하였습니다.|
 |포스터|박형민, 이상규|한림대학교![박형민](./pic/phm.jpg)|![이상규](/pic/sangkue.jpg)파이썬으로 한림학보 분석한 한림 대학교의 키워드|한림학보 키워드 분석 및 시각화|
 
@@ -35,7 +35,7 @@ permalink: /about/
 |송영숙![1](./pic/song.jpg)|이상열![2](./pic/sang.jpg)|홍수린![3](./pic/sulin.jpg)|송치성![4](./pic/chisung.jpg)|한수미![5](./pic/sumi.jpg)|
 |이재석![1](./pic/jslee.jpg)|김성근![2](./pic/sungkun.png)|심지수![3](./pic/jisu.jpg)|고하경![4](./pic/kohakyong.jpg)|안유미![5](./pic/anumi.jpg)|
 |정민![1](./pic/jungmin2.jpg)|현예은![2](./pic/yeun.jpg)|김지인![3](./pic/kim.jpg)|김건희![4](./pic/khee.jpg)|김도경![5](./pic/kimdokyong.jpg)|
-|박신홍![1](./pic/sinhongpark.jpg)|김강민![2](./pic/kangmin.jpg)|이상규![3](./pic/sangkue2.jpg)|구윤제(./pic/kyj2.png))|
+|박신홍![1](./pic/sinhongpark.jpg)|김강민![2](./pic/kangmin.jpg)|이상규![3](./pic/sangkue2.jpg)|구윤제![4](./pic/kyj2.png))|
 
 
 
