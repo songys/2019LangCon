@@ -26,7 +26,7 @@ layout: home
 ![table1](./pic/key.png)          
 
 ### 발표 및 튜토리얼 세션                                
-![table2](./pic/time.png)        
+![table2](./pic/main.png)        
 
 ### 포스터 세션                    
 박형민 · 이상규: 파이썬으로 한림학보 분석한 한림 대학교의 키워드            
