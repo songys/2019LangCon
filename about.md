@@ -24,7 +24,7 @@ permalink: /about/
 |스피커|김준민|카페24![김준민](./pic/junmin.png)|딥러닝으로 리뷰 별점 예측하기|**1)** LSTM vs CNN **2)** word embedding vs char embedding **3)** AWS Lambda에서 돌리기 **4)** Classification vs regression **대상 : 초중급**|
 |스피커|정건용, 신민철|아주대학교|메세지(기사)와 메신저(기사 전달자)를 활용한 가짜뉴스 판별기 제작기|가짜뉴스 판별기 제작과 관련한 삽질기 **대상** : 초중급|
 |스피커|홍지민|홍지민(아주대학교), 곽현석(충북대학교)![홍지민](./pic/hongjimin.jpg)|인터넷 방송 크롤링을 통한 방송 하이라이트 예측|인터넷 방송 채팅창 내 유저들의 반응: 탄성과 감탄사를 통해 방송의 가장 재미있거나, 하이라이트였던 부분을 예측합니다! **대상** : 초중급|
-|스피커|남내현, 장정우|한림대학교|파이썬을 이용한 초급 데이터 마이닝|파이썬을 이용한 데이터 마이닝 **대상** : 초급|
+|스피커|남내현, 장정우|한림대학교![남내현](./pic/namneheon.jpg)|![장정우](./pic/jangjungu.jpg)너의 목소리가 들려|광화문 1번가 플랫폼에서 어떤 키워드에 대한 정책 제안들이, 긍정과 부정 중 어떤 방향으로 서술되었는지 분석하였다. 이러한 분석 결과가 실제로 정부와 국회 입법안으로 피드백되었는지 확인하여, 광화문 1번가가 국민들의 이슈를 수렴하는 커뮤니티적인 기능을 효과적으로 수행하였는지 분석한다. **대상** : 초급|
 |포스터|구윤제, 정민|한림대학교![구윤제](./pic/kyj.png)|![정민](./pic/jungmin.jpg)빌보드 차트 뽀개기 : 연도별 GGL 분석|빌보드 차트를 장르, 성별, 가사에 초점을 맞춰서 파이썬을 통한 자연어처리로 분석하였습니다.|
 |포스터|박형민, 이상규|한림대학교![박형민](./pic/phm.jpg)|![이상규](/pic/sangkue.jpg)파이썬으로 한림학보 분석한 한림 대학교의 키워드|한림학보 키워드 분석 및 시각화|
 
@@ -35,8 +35,9 @@ permalink: /about/
 |:--------:|:-----------------:|:-----------:|:--------:|:--------:|
 |송영숙![1](./pic/song.jpg)|이상열![2](./pic/sang.jpg)|홍수린![3](./pic/sulin.jpg)|송치성![4](./pic/chisung.jpg)|한수미![5](./pic/sumi.jpg)|
 |이재석![1](./pic/jslee.jpg)|김성근![2](./pic/sungkun.png)|심지수![3](./pic/jisu.jpg)|고하경![4](./pic/kohakyong.jpg)|안유미![5](./pic/anumi.jpg)|
-|정민![1](./pic/jungmin2.jpg)|현예은![2](./pic/yeun.jpg)|김지인![3](./pic/kim.jpg)|박형민![4](./pic/phm2.jpg)|김도경![5](./pic/kimdokyong.jpg)|
-|박신홍![1](./pic/sinhongpark.jpg)|김강민![2](./pic/kangmin.jpg)|이상규![3](./pic/sangkue2.jpg)|구윤제![4](./pic/kyj2.png)|김건희![5](./pic/khee.jpg)|
+|정민![1](./pic/jungmin2.jpg)|현예은![2](./pic/yeun.jpg)|김지인![3](./pic/kim.jpg)|박형민![4](./pic/phm.jpg)|김도경![5](./pic/kimdokyong.jpg)|
+|박신홍![1](./pic/sinhongpark.jpg)|김강민![2](./pic/kangmin.jpg)|이상규![3](./pic/sangkue.jpg)|구윤제![4](./pic/kyj.png)|박조은![5](./pic/joeun.jpg)
+김건희![1](./pic/khee.jpg)|심상진![2](./pic/simsangjin.png)
 
 
 
