@@ -47,6 +47,8 @@ layout: home
 
 [봇봇봇](https://www.onoffmix.com/event/89407) 
 
+# [오늘 행사에 대한 의견을 들려 주세요!](http://aka.ms/devsurveyKR) 
+
 
 # 후원               
 [한림대학교 소프트웨어중심대학사업단](http://hlsw.hallym.ac.kr)                            
