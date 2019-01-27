@@ -30,7 +30,7 @@ layout: home
 ![table2](./pic/m.png)        
 
 ### 포스터 세션                    
-박형민 · 이상규: 파이썬으로 한림학보 분석한 한림 대학교의 키워드            
+박형민 · 이상규: 파이썬으로 한림학보 분석한 한림 대학교의 키워드 : 한림학보를 파이썬+ OKT 형태소 분석기로 분석했습니다(초급)          
 정민 · 구윤제: 빌보드 차트 뽀개기 : 연도별 GGL 분석(초급) , 빌보드 차트를 장르, 성별, 가사에 초점을 맞춰서 파이썬으로 분석하였습니다.                 
                      
           
@@ -53,7 +53,7 @@ layout: home
 # 후원               
 [한림대학교 소프트웨어중심대학사업단](http://hlsw.hallym.ac.kr)                            
 [한림대학교 디지털인문예술전공](https://sites.google.com/view/dah-hallym)            
-![한림대학교](./pic/hallym.png)         
+![한림대학교](./pic/hl.png)         
 
 [Microsoft Learn](https://docs.microsoft.com/ko-kr/learn)         
 ![마이크로소프트](./pic/mslearn.jpeg)              
