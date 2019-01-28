@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-<img src="./pic/tlogo.png" width="300" height="100" ><BR>
+<img src="./pic/logo.png" width="300" height="100" ><BR>
 
 |번호|발표형태|이름|소속|제목|발표 소개|
 |:--------:|:-----------------:|:-----------:|:--------:|:--------:|
