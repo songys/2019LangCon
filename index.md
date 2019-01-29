@@ -55,5 +55,5 @@ layout: home
 
 
 [위키북스](http://wikibook.co.kr/)
-![위키북스](./pic/wiki.png)
+![위키북스](./pic/wikibook.png)
 
