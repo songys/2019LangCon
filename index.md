@@ -7,7 +7,7 @@ layout: home
 
                   
 
-<img src="./pic/logo.png" width="50"><BR>
+<img src="./pic/logo.png" width="100"><BR>
 <img src="./pic/langcon.png" width="500"><BR>
 
 조금 더 나아지기 위해서 모였습니다. 하루하루 틈틈이 준비했습니다. 발표 전문가는 아닙니다. 잘 못할 때는 토론하면서 알려 주세요! 실수하면 박수 부탁드립니다. 2명이 오거나 200명이 오거나 소외되는 사람 없이 모두가 참여하는 모임이 되는 것이 모토입니다. 
