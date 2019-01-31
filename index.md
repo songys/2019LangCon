@@ -51,7 +51,10 @@ layout: home
 ![한림대학교](./pic/hl.png)         
 
 [Microsoft Learn](https://docs.microsoft.com/ko-kr/learn)            
-![마이크로소프트](./pic/mslearn.jpeg) 
+![마이크로소프트](./pic/mslearn.jpeg)
+
+[DeepNatural](https://deepnatural.ai)
+![DeepNatural](./pic/DeepNaturalx.png)
 
 
 [위키북스](http://wikibook.co.kr/)               
