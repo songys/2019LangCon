@@ -54,7 +54,7 @@ layout: home
 ![마이크로소프트](./pic/mslearn.jpeg)
 
 [DeepNatural](https://deepnatural.ai)
-![DeepNatural](./pic/DeepNaturalx.png)
+![DeepNatural](./pic/DeepNatural.png)
 
 
 [위키북스](http://wikibook.co.kr/)               
