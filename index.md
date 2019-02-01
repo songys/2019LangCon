@@ -55,6 +55,8 @@ layout: home
 
 [DeepNatural](https://deepnatural.ai)
 ![DeepNatural](./pic/DeepNatural.png)
+DeepNatural AI - 딥네츄럴은 고품질 자연어 학습 데이터를 전문적으로 수집 / 가공하는 자연어처리 스타트업입니다. 먹을 줄 아는 사람이 맛집을 아는 것처럼, NLP 하는 사람들이 좋은 학습 데이터를 압니다. 텍스트, 음성, 그리고 영상까지. 장인 정신으로 데이터를 가공하고 검수합니다. 고품질 코퍼스 구축은 저희를
+## 전적으로 믿으셔야 합니다.
 
 
 [위키북스](http://wikibook.co.kr/)               
