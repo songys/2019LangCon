@@ -26,10 +26,7 @@ layout: home
 
 ### 포스터 세션(종일 전시, 점심 시간을 이용하여 토론할 수 있습니다.)                    
 박형민 · 이상규: 키워드로 본 대학신문 - 한림학보를 파이썬+형태소 분석기로 분석했습니다(초급).          
-정민 · 구윤제: 빌보드 차트 뽀개기 : 연도별 GGL 분석(초급) , 빌보드 차트를 장르, 성별, 가사에 초점을 맞춰서 파이썬으로 분석하였습니다.                 
-                     
-          
-
+정민 · 구윤제: 빌보드 차트 뽀개기 : 연도별 GGL 분석(초급) , 빌보드 차트를 장르, 성별, 가사에 초점을 맞춰서 파이썬으로 분석하였습니다.                         
 
 # 찾아 오시는 길           
 서울특별시 종로구 중학동 19 더케이트윈타워 A동 11층                            
@@ -64,5 +61,6 @@ DeepNatural AI - 딥네츄럴은 고품질 자연어 학습 데이터를 전문�
                 
 [위키북스](http://wikibook.co.kr/)                             
 ![위키북스](./pic/wikibook.png)                         
-전창욱, 최태균, 조중현 저(2019), [텐서플로와 머신러닝으로 시작하는 자연어 처리](http://www.yes24.com/24/goods/69334316?scode=032&OzSrank=1&fbclid=IwAR1pL7jjtA1MuT-iRvm6yZvl2SKzED5W5nC86T2kCOvKD_IOMbhrti7ggpE)                            
-<img src="./pic/nlpbook.png" width="80"><BR>
+전창욱, 최태균, 조중현 저(2019), [텐서플로와 머신러닝으로 시작하는 자연어 처리](http://www.yes24.com/24/goods/69334316?scode=032&OzSrank=1&fbclid=IwAR1pL7jjtA1MuT-iRvm6yZvl2SKzED5W5nC86T2kCOvKD_IOMbhrti7ggpE)                
+
+<img src="./pic/nlp.png" width="80"><BR>
