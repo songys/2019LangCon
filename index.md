@@ -59,10 +59,11 @@ DeepNatural AI - 딥네츄럴은 고품질 자연어 학습 데이터를 전문�
 ## 전적으로 믿으셔야 합니다.
 
 
-[한빛미디어](http://www.hanbit.co.kr/)
-![한빛미디어](./pic/hanbit.png)
-
-[위키북스](http://wikibook.co.kr/)               
-![위키북스](./pic/wikibook.png)
-전창욱, 최태균, 조중현 저(2019), [텐서플로와 머신러닝으로 시작하는 자연어 처리](http://www.yes24.com/24/goods/69334316?scode=032&OzSrank=1&fbclid=IwAR1pL7jjtA1MuT-iRvm6yZvl2SKzED5W5nC86T2kCOvKD_IOMbhrti7ggpE)
+[한빛미디어](http://www.hanbit.co.kr/)        
+![한빛미디어](./pic/hanbit.png)           
+                
+[위키북스](http://wikibook.co.kr/)                             
+![위키북스](./pic/wikibook.png)                         
+전창욱, 최태균, 조중현 저(2019), [텐서플로와 머신러닝으로 시작하는 자연어 처리](http://www.yes24.com/24/goods/69334316?scode=032&OzSrank=1&fbclid=IwAR1pL7jjtA1MuT-iRvm6yZvl2SKzED5W5nC86T2kCOvKD_IOMbhrti7ggpE)              
+![NLPbook](./pic/nlpbook.png)                
 
