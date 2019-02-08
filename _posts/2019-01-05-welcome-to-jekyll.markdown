@@ -26,5 +26,5 @@ categories: jekyll update
 [진행]운영진은 분홍색 ‘LangCon’ 티셔츠를 입고 있을 것입니다. 긴급한 사안에 대해서는, 아래의 담당자에게 연락 부탁드립니다.   
 
 klanguage1004@gmail.com 송영숙  
-![t](./image/t.png)    
+![t](./t.png)    
                              
