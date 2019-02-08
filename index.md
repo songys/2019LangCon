@@ -58,16 +58,17 @@ DeepNatural AI - 딥네츄럴은 고품질 자연어 학습 데이터를 전문�
 [한빛미디어](http://www.hanbit.co.kr/)        
 ![한빛미디어](./pic/hanbit.png)                  
 
-[최희탁 저(2019), 좋은선택 나쁜 선택](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162241400&orderClick=LEA&Kc=)                                        
+[최희탁 저(2019), 좋은선택 나쁜 선택](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162241400&orderClick=LEA&Kc=)                
+누구나 쉽게 읽을 수 있도록 배려한 '데이터 바로 읽기' 법 교양서
+                                   
 ![좋은 선택](./pic/goodchoice.png)          
                 
 [위키북스](http://wikibook.co.kr/)                             
 ![위키북스](./pic/wikibook.png)                         
-전창욱, 최태균, 조중현 저(2019), [텐서플로와 머신러닝으로 시작하는 자연어 처리](http://www.yes24.com/24/goods/69334316?scode=032&OzSrank=1&fbclid=IwAR1pL7jjtA1MuT-iRvm6yZvl2SKzED5W5nC86T2kCOvKD_IOMbhrti7ggpE)    
+전창욱, 최태균, 조중현 저(2019), [텐서플로와 머신러닝으로 시작하는 자연어 처리](http://www.yes24.com/24/goods/69334316?scode=032&OzSrank=1&fbclid=IwAR1pL7jjtA1MuT-iRvm6yZvl2SKzED5W5nC86T2kCOvKD_IOMbhrti7ggpE)
+<img src="./pic/nlpbook.png" width="200"><BR>     
 
 
 
 
-좋은 선택, 나쁜 선택 
-누구나 쉽게 읽을 수 있도록 배려한 '데이터 바로 읽기' 법 교양서
-<img src="./pic/nlpbook.png" width="200"><BR>
+
