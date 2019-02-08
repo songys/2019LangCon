@@ -52,15 +52,22 @@ layout: home
 
 [DeepNatural](https://deepnatural.ai)
 ![DeepNatural](./pic/DeepNatural.png)
-DeepNatural AI - 딥네츄럴은 고품질 자연어 학습 데이터를 전문적으로 수집 / 가공하는 자연어처리 스타트업입니다. 먹을 줄 아는 사람이 맛집을 아는 것처럼, NLP 하는 사람들이 좋은 학습 데이터를 압니다. 텍스트, 음성, 그리고 영상까지. 장인 정신으로 데이터를 가공하고 검수합니다. 고품질 코퍼스 구축은 저희를
-## 전적으로 믿으셔야 합니다.
+DeepNatural AI - 딥네츄럴은 고품질 자연어 학습 데이터를 전문적으로 수집 / 가공하는 자연어처리 스타트업입니다. 먹을 줄 아는 사람이 맛집을 아는 것처럼, NLP 하는 사람들이 좋은 학습 데이터를 압니다. 텍스트, 음성, 그리고 영상까지. 장인 정신으로 데이터를 가공하고 검수합니다. 고품질 코퍼스 구축은 저희를 전적으로 믿으셔야 합니다.
 
 
 [한빛미디어](http://www.hanbit.co.kr/)        
-![한빛미디어](./pic/hanbit.png)           
+![한빛미디어](./pic/hanbit.png)                  
+
+[최희탁 저(2019), 좋은선택 나쁜 선택](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162241400&orderClick=LEA&Kc=)                                        
+![좋은 선택](./pic/goodchoice.png)          
                 
 [위키북스](http://wikibook.co.kr/)                             
 ![위키북스](./pic/wikibook.png)                         
-전창욱, 최태균, 조중현 저(2019), [텐서플로와 머신러닝으로 시작하는 자연어 처리](http://www.yes24.com/24/goods/69334316?scode=032&OzSrank=1&fbclid=IwAR1pL7jjtA1MuT-iRvm6yZvl2SKzED5W5nC86T2kCOvKD_IOMbhrti7ggpE)                
+전창욱, 최태균, 조중현 저(2019), [텐서플로와 머신러닝으로 시작하는 자연어 처리](http://www.yes24.com/24/goods/69334316?scode=032&OzSrank=1&fbclid=IwAR1pL7jjtA1MuT-iRvm6yZvl2SKzED5W5nC86T2kCOvKD_IOMbhrti7ggpE)    
 
+
+
+
+좋은 선택, 나쁜 선택 
+누구나 쉽게 읽을 수 있도록 배려한 '데이터 바로 읽기' 법 교양서
 <img src="./pic/nlpbook.png" width="200"><BR>
