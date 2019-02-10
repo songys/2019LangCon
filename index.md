@@ -42,13 +42,14 @@ layout: home
 # [오늘 행사에 대한 의견을 들려 주세요!](http://aka.ms/devsurveyKR) 
 
 
-# 후원               
-[한림대학교 소프트웨어중심대학사업단](http://hlsw.hallym.ac.kr)                              
-[한림대학교 디지털인문예술전공](https://sites.google.com/view/dah-hallym)            
-![한림대학교](./pic/hl.png)         
+# 후원                       
 
 [Microsoft Learn](https://docs.microsoft.com/ko-kr/learn)            
 ![마이크로소프트](./pic/mslearn.jpeg)
+
+[한림대학교 소프트웨어중심대학사업단](http://hlsw.hallym.ac.kr)                              
+[한림대학교 디지털인문예술전공](https://sites.google.com/view/dah-hallym)            
+![한림대학교](./pic/hl.png) 
 
 [DeepNatural](https://deepnatural.ai)
 ![DeepNatural](./pic/DeepNatural.png)
@@ -67,7 +68,14 @@ DeepNatural AI - 딥네츄럴은 고품질 자연어 학습 데이터를 전문�
 ![위키북스](./pic/wiki.png)                         
 전창욱, 최태균, 조중현 저(2019), [텐서플로와 머신러닝으로 시작하는 자연어 처리](http://www.yes24.com/24/goods/69334316?scode=032&OzSrank=1&fbclid=IwAR1pL7jjtA1MuT-iRvm6yZvl2SKzED5W5nC86T2kCOvKD_IOMbhrti7ggpE)                            
            
-<img src="./pic/nlpbook.png" width="200"><BR>     
+<img src="./pic/nlpbook.png" width="200"><BR>  
+
+
+# 개인 후원
+
+![송영숙](https://www.facebook.com/youngsook.song.1)![1](https://github.com/songys) 문과와 이과가 마주 앉아 자연어 처리를 의논하는 날이 생긴 것을 자축합니다. 함께 한 걸음씩 나아갈 수 있도록 도와 주신 운영진, 발표자, 디자이너, 스태프 여러분 감사합니다.
+
+
 
 
 
