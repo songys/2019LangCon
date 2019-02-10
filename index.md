@@ -75,7 +75,6 @@ DeepNatural AI - 딥네츄럴은 고품질 자연어 학습 데이터를 전문�
 
 |이름/소속|자연어처리에 바란다!|Github|
 |:--------:|:-----------------:|:-----------:|
-
 |[송영숙](https://www.facebook.com/youngsook.song.1)|문과와 이과가 마주 앉아 자연어 처리를 의논하는 날이 생긴 것을 자축합니다.| Github : [https://github.com/songys](https://github.com/songys)| 
 
 
