@@ -77,7 +77,7 @@ DeepNatural AI - 딥네츄럴은 고품질 자연어 학습 데이터를 전문�
 |:--------:|:-----------------:|:-----------:|:-----------:|
 |송영숙![youngsooksong](./pic/youngsook.png)|코딩을 좋아하는 국어학 전공자입니다.|모임을 준비하면서 의도치 않은 일들이 일어나고 어느 순간 허무하다고 느낄 수도 있을 거라고 생각했는데 다행히 멋진 운영진과 스태프, 발표자들의 도움으로  진행할 수 있었습니다. 감사합니다. 문과와 이과가 그리 먼 사이가 아니었음을 알리고 싶었는데 함께 모여서 한국어 자연어처리를 의논하는 날이 생긴 것을 자축합니다.| Github : [https://github.com/songys](https://github.com/songys)|    
 |김현중![Hyunjoong Kim](./pic/hj.png)|효율적인 데이터 분석과 한국어 자연어처리에 관심 많은 분석가 입니다.| 데이터 분석이나 딥러닝 분야에서 크고 작은 모임들이 생길 때 부러워만 했는데, 자연어처리도 이러한 모임이 생겼다니 기쁩니다. 랭콘을 준비해주셔서 감사하고, 자연어처리 커뮤니티도 탄탄하게 자라났으면 좋겠습니다.|  github : [https://github.com/lovit/](https://github.com/lovit/)     blog : [https://lovit.github.io/](https://lovit.github.io/)|
-|박조은![joeunpark](./pic/joeun.jpg)|주변에 있는 텍스트를 찾고 분석하는 것을 좋아합니다.|파이썬과 여러 라이브러리, 그리고 다양한 커뮤니티를 통해 텍스트 분석의 재미를 느끼게 되었습니다. 더 많은 분들과 텍스트 분석을 함께 해보고 싶습니다.|GitHub : https://github.com/corazzon|
+|박조은![joeunpark](./pic/joeun.jpg)|주변에 있는 텍스트를 찾고 분석하는 것을 좋아합니다.|파이썬과 여러 라이브러리, 그리고 다양한 커뮤니티를 통해 텍스트 분석의 재미를 느끼게 되었습니다. 더 많은 분들과 텍스트 분석을 함께 해보고 싶습니다.|GitHub : [https://github.com/corazzon](https://github.com/corazzon)|
 
 
 
