@@ -75,7 +75,7 @@ DeepNatural AI - 딥네츄럴은 고품질 자연어 학습 데이터를 전문�
 
 |이름|자기 소개|자연어 처리에 바란다!|Github / blog |
 |:--------:|:-----------------:|:-----------:|:-----------:|
-|송영숙！[younsooksong](./pic/song.jpg)|코딩을 좋아하는 국어학 전공자입니다.|문과와 이과가 마주 앉아 자연어 처리를 의논하는 날이 생긴 것을 자축합니다.| Github : [https://github.com/songys](https://github.com/songys)|    
+|송영숙！[youngsooksong](./pic/song.jpg)|코딩을 좋아하는 국어학 전공자입니다.|문과와 이과가 마주 앉아 자연어 처리를 의논하는 날이 생긴 것을 자축합니다.| Github : [https://github.com/songys](https://github.com/songys)|    
 |김현중![Hyunjoong Kim](./pic/hj.png)|효율적인 데이터 분석과 한국어 자연어처리에 관심 많은 분석가 입니다.| 데이터 분석이나 딥러닝 분야에서 크고 작은 모임들이 생길 때 부러워만 했는데, 자연어처리도 이러한 모임이 생겼다니 기쁩니다. 랭콘을 준비해주셔서 감사하고, 자연어처리 커뮤니티도 탄탄하게 자라났으면 좋겠습니다.|  github : [https://github.com/lovit/](https://github.com/lovit/)     blog    : [https://lovit.github.io/](https://lovit.github.io/)|
 
 
