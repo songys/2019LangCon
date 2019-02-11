@@ -40,6 +40,7 @@ layout: home
 [봇봇봇](https://www.onoffmix.com/event/89407) 
 
 # [오늘 행사에 대한 의견을 들려 주세요!](http://aka.ms/devsurveyKR) 
+![qrcode](./pic/q.png)
 
 
 # 후원                       
