@@ -50,7 +50,7 @@ layout: home
 
 [한림대학교 소프트웨어중심대학사업단](http://hlsw.hallym.ac.kr)                              
 [한림대학교 디지털인문예술전공](https://sites.google.com/view/dah-hallym)            
-![한림대학교](./pic/hln.png) 
+![한림대학교](./pic/hllogo.png) 
 
 [DeepNatural](https://deepnatural.ai)
 ![DeepNatural](./pic/DeepNatural.png)
