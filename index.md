@@ -50,7 +50,7 @@ layout: home
 
 [한림대학교 소프트웨어중심대학사업단](http://hlsw.hallym.ac.kr)                              
 [한림대학교 디지털인문예술전공](https://sites.google.com/view/dah-hallym)            
-![한림대학교](./pic/hllogo.png) 
+![한림대학교](./pic/soft.png) 
 
 [DeepNatural](https://deepnatural.ai)
 ![DeepNatural](./pic/DeepNatural.png)
@@ -67,8 +67,8 @@ DeepNatural AI - 딥네츄럴은 고품질 자연어 학습 데이터를 전문�
                 
 [위키북스](http://wikibook.co.kr/)                             
 ![위키북스](./pic/wiki.png)                         
-전창욱, 최태균, 조중현 저(2019), [텐서플로와 머신러닝으로 시작하는 자연어 처리](http://www.yes24.com/24/goods/69334316?scode=032&OzSrank=1&fbclid=IwAR1pL7jjtA1MuT-iRvm6yZvl2SKzED5W5nC86T2kCOvKD_IOMbhrti7ggpE), 위키북스
-송영숙, 심상진, 한수미, 고재선(2019출간예정), 파이썬을 활용한 딥러닝 전이학습, 위키북스                           
+전창욱, 최태균, 조중현 저(2019), [텐서플로와 머신러닝으로 시작하는 자연어 처리](http://www.yes24.com/24/goods/69334316?scode=032&OzSrank=1&fbclid=IwAR1pL7jjtA1MuT-iRvm6yZvl2SKzED5W5nC86T2kCOvKD_IOMbhrti7ggpE), 위키북스.                         
+송영숙, 심상진, 한수미, 고재선(2019출간예정), 파이썬을 활용한 딥러닝 전이학습, 위키북스.                                        
            
 <img src="./pic/book.png" width="600"><BR>  
 
